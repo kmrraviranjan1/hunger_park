@@ -9,7 +9,7 @@ import {
   // FindUs,
   // Gallery,
   // Laurels,
-  // Footer
+  Footer
 } from './container';
 import { Navbar } from './components';
 import './App.css';
@@ -25,7 +25,7 @@ const App = () => (
     {/* <Laurels /> */}
     {/* <Gallery /> */}
     {/* <FindUs /> */}
-    {/* <Footer /> */}
+    <Footer />
   </div>
 );
 
